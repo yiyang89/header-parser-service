@@ -1,21 +1,21 @@
 {
-  "name": "timestamp-service",
+  "name": "header-parser-service",
   "version": "1.0.0",
-  "description": "a timestamp service",
+  "description": "/api/whoami/ returns the users ip, language, and operating system",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yiyang89/timestamp-service.git"
+    "url": "git+https://github.com/yiyang89/header-parser-service.git"
   },
   "author": "Yiyang Kok",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yiyang89/timestamp-service/issues"
+    "url": "https://github.com/yiyang89/header-parser-service/issues"
   },
-  "homepage": "https://github.com/yiyang89/timestamp-service#readme",
+  "homepage": "https://github.com/yiyang89/header-parser-service#readme",
   "dependencies": {
     "ejs": "^2.5.6",
     "express": "^4.15.2"
